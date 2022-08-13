@@ -1,5 +1,5 @@
 {
-    "name": "WSCreator/whmcs-api-php",
+    "name": "wscreator-co/whmcs-api-php",
     "description": "WHMCS API client for PHP",
     "keywords": ["whmcs", "api"],
     "type": "library",
