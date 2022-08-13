@@ -31,11 +31,5 @@
         "psr-4": {
             "WSCreator\\WhmcsApi\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "WSCreator\\Tests\\WhmcsApi\\": "tests/"
-        }
-    },
-    "minimum-stability": "dev"
+    }
 }
