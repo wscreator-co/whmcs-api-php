@@ -1,13 +1,13 @@
 {
-    "name": "darthsoup/php-whmcs-api",
+    "name": "WSCreator/whmcs-api-php",
     "description": "WHMCS API client for PHP",
     "keywords": ["whmcs", "api"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kevin Krummnacker",
-            "email": "kevin.krummnacker@gmail.com"
+            "name": "Aan Wijayanto",
+            "email": "aanwijayanto.id@gmail.com"
         }
     ],
     "require": {
@@ -29,12 +29,12 @@
     },
     "autoload": {
         "psr-4": {
-            "DarthSoup\\WhmcsApi\\": "src/"
+            "WSCreator\\WhmcsApi\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DarthSoup\\Tests\\WhmcsApi\\": "tests/"
+            "WSCreator\\Tests\\WhmcsApi\\": "tests/"
         }
     }
 }
